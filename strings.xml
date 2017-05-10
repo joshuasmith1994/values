@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ChiroPro</string>
+    <string name="welcome_to_chiropro">Welcome to ChiroPro!</string>
+    <string name="next">Next</string>
+    <string name="home">Home</string>
+    <string name="which_limb_s_of_the_human_body_is_experiencing_discomfort">Which limb(s) of the human body is experiencing discomfort?</string>
+    <string name="what_sensation_are_you_experiencing">What sensation are you experiencing?</string>
+    <string name="on_scale_of_1_10_what_is_the_intensity_of_sensation_10_being_severe_and_1_being_no_severity">On scale of 1-10, what is the intensity of sensation? (10 being severe and 1 being no severity)</string>
+    <string name="your_results_are">Your results are:</string>
+    <string name="hello_world">Hello World!</string>
+
+    <string-array name="body_parts">
+        <item>Abdominal</item>
+        <item>Biceps</item>
+        <item>Buttocks</item>
+        <item>Calf</item>
+        <item>Deltoids</item>
+        <item>Foot and/or Toe(s)</item>
+        <item>Forearm/Wrist</item>
+        <item>Hamstring</item>
+        <item>Hand</item>
+        <item>Hip</item>
+        <item>Neck</item>
+        <item>Quadriceps</item>
+        <item>Shin</item>
+        <item>Trapezius(Shoulders)</item>
+        <item>Triceps</item>
+        <item>Trunk(Low Back)</item>
+    </string-array>
+
+    <string-array name="sensation">
+        <item>Numbness</item>
+        <item>Sharpshooting Pain</item>
+        <item>Spasms</item>
+        <item>Tenderness</item>
+        <item>Tingling</item>
+    </string-array>
+
+    <string-array name="intensity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="motion">
+        <item>Athletic/Sporting Activity</item>
+        <item>Hunching Over Desk</item>
+        <item>Industrial Accident</item>
+        <item>Jumping/Falling</item>
+        <item>Lifting Object from Ground</item>
+        <item>Motor Accident</item>
+        <item>Physical Altercation</item>
+        <item>Scoliosis</item>
+        <item>Swinging</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_visual">VisualActivity</string>
+</resources>
